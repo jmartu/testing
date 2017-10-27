@@ -1,0 +1,57 @@
+video 01 * codigo facilito
+**************************
+working directory -> staging area -> repository
+
+area de trabajo -> archivos listos para hacer traza -> archivos con traza
+
+video 02 * codigo facilito
+**************************
+--> configuracion global de git
+git config --global user.name = "john"
+git config --global user.name
+git config --global user.email = "john@john.es"
+git config --global user.email
+git config --global color.ui true
+git config --global --list
+
+video 03 * codigo facilito
+**************************
+git init
+--> empieza a monitorear el proyecto, solo una vez al iniciar el proyecto
+git status
+--> ofrece informacion sobre el estado del proyecto
+git add <file>
+--> para añadir al stagin area un archivo
+git -A
+--> agrega todos los archivos sin traking a staging area
+git commit -m "mensaje"
+--> guarda un snapshot del estado del archivo monitoreado
+
+
+video 04 * codigo facilito
+**************************
+
+video 05 * codigo facilito
+**************************
+
+
+
+video 06 * codigo facilito
+**************************
+
+
+video 07 * codigo facilito
+**************************
+
+
+video 08 * codigo facilito
+**************************
+
+
+video 09 * codigo facilito
+**************************
+
+
+
+video 10 * codigo facilito
+**************************
